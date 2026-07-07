@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cymor-veritas--QnEXC.vercel.app/sitemap.xml
